@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "964761774165",
+    "project_id": "vibho-hcm-9f41c",
+    "storage_bucket": "vibho-hcm-9f41c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964761774165:android:e0274f4754353d83e1ccdc",
+        "android_client_info": {
+          "package_name": "com.example.vibeshr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964761774165-hnr76un2cb1l4for3rd83fofbgqs9371.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3rbs1akj6muLifF6qrI9jTBcUKzIv9Q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964761774165-hnr76un2cb1l4for3rd83fofbgqs9371.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964761774165:android:e0274f4754353d83e1ccdc",
+        "android_client_info": {
+          "package_name": "vibhohcm.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964761774165-hnr76un2cb1l4for3rd83fofbgqs9371.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3rbs1akj6muLifF6qrI9jTBcUKzIv9Q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964761774165-hnr76un2cb1l4for3rd83fofbgqs9371.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
